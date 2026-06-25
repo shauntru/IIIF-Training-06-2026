@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://shauntru.github.io/IIIF-Training-06-2026/images/medium_BAMAllAmericanMenofWar38/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "medium_BAMAllAmericanMenofWar38"
+                ]
+            },
+            "height": 588,
+            "width": 800,
+            "items": [
+                {
+                    "id": "https://shauntru.github.io/IIIF-Training-06-2026/images/medium_BAMAllAmericanMenofWar38/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shauntru.github.io/IIIF-Training-06-2026/images/medium_BAMAllAmericanMenofWar38/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shauntru.github.io/IIIF-Training-06-2026/images/medium_BAMAllAmericanMenofWar38/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 25,
+                                                "height": 19
+                                            },
+                                            {
+                                                "width": 50,
+                                                "height": 37
+                                            },
+                                            {
+                                                "width": 100,
+                                                "height": 74
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 147
+                                            },
+                                            {
+                                                "width": 400,
+                                                "height": 294
+                                            },
+                                            {
+                                                "width": 800,
+                                                "height": 588
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 800,
+                                        "id": "https://shauntru.github.io/IIIF-Training-06-2026/images/medium_BAMAllAmericanMenofWar38",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 588
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shauntru.github.io/IIIF-Training-06-2026/images/medium_BAMAllAmericanMenofWar38/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://shauntru.github.io/IIIF-Training-06-2026/images/medium_BadGuysTipTopv10n7/canvas/",
             "type": "Canvas",
             "label": {
@@ -90,26 +171,26 @@
             ]
         },
         {
-            "id": "https://shauntru.github.io/IIIF-Training-06-2026/images/medium_BAMAllAmericanMenofWar38/canvas/",
+            "id": "https://shauntru.github.io/IIIF-Training-06-2026/images/medium_FantomahJungle10Image7/canvas/",
             "type": "Canvas",
             "label": {
                 "none": [
-                    "medium_BAMAllAmericanMenofWar38"
+                    "medium_FantomahJungle10Image7"
                 ]
             },
-            "height": 588,
+            "height": 817,
             "width": 800,
             "items": [
                 {
-                    "id": "https://shauntru.github.io/IIIF-Training-06-2026/images/medium_BAMAllAmericanMenofWar38/annotation/AnnoPage",
+                    "id": "https://shauntru.github.io/IIIF-Training-06-2026/images/medium_FantomahJungle10Image7/annotation/AnnoPage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://shauntru.github.io/IIIF-Training-06-2026/images/medium_BAMAllAmericanMenofWar38/annotation/",
+                            "id": "https://shauntru.github.io/IIIF-Training-06-2026/images/medium_FantomahJungle10Image7/annotation/",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://shauntru.github.io/IIIF-Training-06-2026/images/medium_BAMAllAmericanMenofWar38/full/max/0/default.jpg",
+                                "id": "https://shauntru.github.io/IIIF-Training-06-2026/images/medium_FantomahJungle10Image7/full/max/0/default.jpg",
                                 "type": "Image",
                                 "service": [
                                     {
@@ -131,40 +212,40 @@
                                         "sizes": [
                                             {
                                                 "width": 25,
-                                                "height": 19
+                                                "height": 26
                                             },
                                             {
                                                 "width": 50,
-                                                "height": 37
+                                                "height": 52
                                             },
                                             {
                                                 "width": 100,
-                                                "height": 74
+                                                "height": 103
                                             },
                                             {
                                                 "width": 200,
-                                                "height": 147
+                                                "height": 205
                                             },
                                             {
                                                 "width": 400,
-                                                "height": 294
+                                                "height": 409
                                             },
                                             {
                                                 "width": 800,
-                                                "height": 588
+                                                "height": 817
                                             }
                                         ],
                                         "profile": "level0",
                                         "width": 800,
-                                        "id": "https://shauntru.github.io/IIIF-Training-06-2026/images/medium_BAMAllAmericanMenofWar38",
+                                        "id": "https://shauntru.github.io/IIIF-Training-06-2026/images/medium_FantomahJungle10Image7",
                                         "type": "ImageService3",
                                         "@context": "http://iiif.io/api/image/3/context.json",
-                                        "height": 588
+                                        "height": 817
                                     }
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://shauntru.github.io/IIIF-Training-06-2026/images/medium_BAMAllAmericanMenofWar38/canvas/"
+                            "target": "https://shauntru.github.io/IIIF-Training-06-2026/images/medium_FantomahJungle10Image7/canvas/"
                         }
                     ]
                 }
