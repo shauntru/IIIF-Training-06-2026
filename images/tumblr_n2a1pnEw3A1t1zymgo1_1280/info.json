@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 40,
+    "height" : 30
+  }, {
+    "width" : 80,
+    "height" : 59
+  }, {
+    "width" : 160,
+    "height" : 117
+  }, {
+    "width" : 320,
+    "height" : 234
+  }, {
+    "width" : 640,
+    "height" : 467
+  }, {
+    "width" : 1280,
+    "height" : 933
+  } ],
+  "profile" : "level0",
+  "width" : 1280,
+  "id" : "https://shauntru.github.io/IIIF-Training-06-2026/images/tumblr_n2a1pnEw3A1t1zymgo1_1280",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 933
+}
