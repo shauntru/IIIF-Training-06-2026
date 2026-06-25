@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.io/api/cookbook/recipe/0032-collection/collection.json",
+  "type": "Collection",
+  "label": {
+    "en": [
+      "Simple Collection Example"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://shauntru.github.io/IIIF-Training-06-2026/images/medium_MMC23TorchMultiPanelAcrop/info.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "What In..."
+        ]
+      }
+    },
+    {
+      "id": "https://shauntru.github.io/IIIF-Training-06-2026/images/tumblr_n2a1pnEw3A1t1zymgo1_1280/info.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Batsignal"
+        ]
+      }
+    }
+  ]
+}
