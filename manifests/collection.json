@@ -1,0 +1,15 @@
+{
+  "id" : "https://shauntru.github.io/IIIF-Training-06-2026/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in shauntru/IIIF-Training-06-2026 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://shauntru.github.io/IIIF-Training-06-2026/manifests/manifest.json",
+    "label" : {
+      "en" : [ "Simple Collection Example" ]
+    },
+    "type" : "Collection"
+  } ]
+}
