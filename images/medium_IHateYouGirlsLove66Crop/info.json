@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 25,
+    "height" : 20
+  }, {
+    "width" : 50,
+    "height" : 39
+  }, {
+    "width" : 100,
+    "height" : 77
+  }, {
+    "width" : 200,
+    "height" : 153
+  }, {
+    "width" : 400,
+    "height" : 306
+  }, {
+    "width" : 800,
+    "height" : 612
+  } ],
+  "profile" : "level0",
+  "width" : 800,
+  "id" : "https://shauntru.github.io/IIIF-Training-06-2026/images/medium_IHateYouGirlsLove66Crop",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 612
+}
